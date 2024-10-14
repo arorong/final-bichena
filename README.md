@@ -10,7 +10,11 @@
 - 구매 금액에 따라 회원 등급이 결정되며 할인 혜택을 받을 수 있습니다.
 </br></br></br>
 
-## 2. 개발 환경
+## 2. 개발 기간 및 인원
+- 개발 기간 : 2024. 04. 26. ~ 2024. 05. 25. (4주)
+- 개발 인원 : 7명
+
+## 3. 개발 환경
 - Front-end & Back-end: Java,HTML/CSS, JavaScript, Ajax, jquery
 - 프레임워크 : Spring Framework, BootStrap
 - 서버 & DB :  Apache Tomcat, MariaDB
@@ -20,7 +24,7 @@
 - 디자인 : Figma
 </br></br></br>
 
-## 3. 주요 기능
+## 4. 주요 기능
 ### 1) 메인페이지
 ![bichena main](https://github.com/user-attachments/assets/e98ad588-d7b2-4296-99c1-ed365fc4e3a2)
 - 슬라이드 API를 사용하여 이벤트별/주류별/리뷰 슬라이드를 구현했습니다.
